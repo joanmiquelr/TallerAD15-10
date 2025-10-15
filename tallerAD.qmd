@@ -1,6 +1,0 @@
----
-title: "Taller AD"
-format: html
-editor: source
----
-
