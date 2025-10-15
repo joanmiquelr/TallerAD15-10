@@ -46,8 +46,18 @@ es observacional porque el investigador no obliga a nadia ni a usar el móvil ni
 transversal porque se les pidió a todos los que se hicieron la colonoscopia que respondieran el cuestionario. 
 
 #### 4. Indicad al menos tres posibles sesgos y/o factores de confunción que podrían afectar los resultados del estudio (2 puntos)
+- Los pacientes no son aleatorios, todos estaban siendo analizados en una colonoscopia.
+- Las edades medias son relativamente altas. (Pueden no ser representativas para jóvenes).
+- Sesgo oportunista.
 
 #### 5. Con base en la Tabla 1 del artículo, interpretad en el contexto del problema las características que resultaron estadísticamente significativas (1.5 puntos)
+- Frequencia en que el uso de movil augmenta el tiempo en el aseo: Vemos un p-valor de 0.001, por lo tanto es un resultado estadisticamente significativo, vemos que ningun enquestado que no usa el movil contestó alguna otra respuesta que "Nunca", mientras que en el otro grupo hay mas diversidad, con "1 o 2 veces a la semana" ocupando el ~30% de las respuestas. 
+
+- Valor de MET: Vemos que los no usuarios de movil en el aseo tienen un valor MET medio significativamente mas alto pero con una desviación tipica tambien mucho más alta. Eso podria indicar hay observaciones mas extremas dentro de la muestra en este grupo, o que realmente la media es mas alta.
+
+- Leer otras cosas que no sean en el móvil: Las personas que usan el móvil en el aseo tienen mas tendencia a leer otros contenidos también en el aseo, en comparación a los que no llevan el móvil al aseo. Este dato no es sorprendente ya que los que tienen tendencia a distraerse en el aseo con el móvil, también la tendran con otros contenidos. 
+
+- No leer en el aseo: Usar el móvil y no leer absolutamente nada, especialmente en las edades muestreadas, es bastante raro. Consequentemente la manera de ir al aseo y no leer es no utilzar el movil.
 
 #### 6. Con base en la Figura 5, discutid si el gráfico empleado es correcto y proponed, en su caso, mejoras que faciliten la interpretación (1 punto)
 
