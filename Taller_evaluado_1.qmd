@@ -60,9 +60,10 @@ transversal porque se les pidió a todos los que se hicieron la colonoscopia que
 - No leer en el aseo: Usar el móvil y no leer absolutamente nada, especialmente en las edades muestreadas, es bastante raro. Consequentemente la manera de ir al aseo y no leer es no utilzar el movil.
 
 #### 6. Con base en la Figura 5, discutid si el gráfico empleado es correcto y proponed, en su caso, mejoras que faciliten la interpretación (1 punto)
-
+El gráfico empleado es correcto ya que podemos observar perfectamente el porcentaje de personas que usan cada aplicación. Otra opción sería cambiar la pregunta a "Qué aplicación usas más cuando estás en el inodoro?" y hacer un diagrama circular.
 #### 7. Explica, de forma breve y basada en esta evidencia, si recomendarías evitar o limitar el uso del smartphone en el inodoro a tus amigos (jóvenes menores de 25 años), indicando por qué, cómo (1 punto)
-
+Yo recomendaría evitar el uso del smartphone en el inodoro, ya que en el estudio hay evidencias de que el uso del smartphone afecta a la aparición de hemorroides. Aún así como la media de la edad de las personas encuestadas es mayor a 50 años por lo tanto no podemos generalizar el resultado a toda la población.
+Para reducir el uso de smartphones en el inodoro se podría implementar charlas educativas para provover esta idea. Además, también se podría promover esta idea por medio de las redes sociales y las noticias.
 
 <br>
 
