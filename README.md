@@ -1,3 +1,5 @@
 # TallerAD15-10
 
-Taller Ánalisis de Datos hecho por Toni Rigo, Joan Miquel Rubi y Montse Pou..
+Taller Evaluado I de Ánalisis de Datos (GMAT UIB) sobre el artículo 
+"Smartphone use on the toilet and the risk of hemorrhoids" hecho por Toni Rigo, 
+Joan Miquel Rubi y Montse Pou.
