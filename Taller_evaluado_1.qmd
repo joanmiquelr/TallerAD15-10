@@ -51,7 +51,7 @@ transversal porque se les pidió a todos los que se hicieron la colonoscopia que
 - Sesgo oportunista.
 
 #### 5. Con base en la Tabla 1 del artículo, interpretad en el contexto del problema las características que resultaron estadísticamente significativas (1.5 puntos)
-- Frequencia en que el uso de movil augmenta el tiempo en el aseo: Vemos un p-valor de 0.001, por lo tanto es un resultado estadisticamente significativo, vemos que ningun enquestado que no usa el movil contestó alguna otra respuesta que "Nunca", mientras que en el otro grupo hay mas diversidad, con "1 o 2 veces a la semana" ocupando el ~30% de las respuestas. 
+- Frequencia en que el uso de movil augmenta el tiempo en el aseo: Vemos un p-valor de 0.001, por lo tanto es un resultado estadisticamente significativo, vemos que ningun enquestado que no usa el movil contestó alguna otra respuesta que "Nunca", mientras que en el otro grupo hay mas diversidad, con "1 o 2 veces a la semana" ocupando el ~30% de las respuestas. Esta observación es compleamente coherente con el hecho de que para estar mas tiempo en el aseo a causa del movil es necessario utilizar el movil en primer lugar, por lo tanto si una persona no utiliza el movil este no va ha causar que este mas tiempo en el aseo. Esta característica deja de ser relevante por este hecho.
 
 - Valor de MET: Vemos que los no usuarios de movil en el aseo tienen un valor MET medio significativamente mas alto pero con una desviación tipica tambien mucho más alta. Eso podria indicar hay observaciones mas extremas dentro de la muestra en este grupo, o que realmente la media es mas alta.
 
