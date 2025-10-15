@@ -10,9 +10,9 @@ lang: es
 
 **Nombre y apellido de cada miembro del grupo**
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
+* Montse Pou
+* Toni Rigo
+* Joan Miquel Rubi
 
 
 
@@ -26,11 +26,24 @@ lang: es
 
 #### 1. ¿Cuál es la pregunta de investigación o hipótesis principal? (1 punto)
 
+¿Existe correlación entre el uso del teléfono móvil en el baño y la prevalencia de hemorroides?
+
+
 
 #### 2. Definid: población objetivo, población muestreada, unidad de observación, muestra y tipo de muestreo (2 puntos)
 
+* Población objetivo: todos los adultos.
+* Población muestreada: Adultos sometidos a una colonoscopia de detección en el Centro Médico Beth Israel Deaconess entre el 01/08/2024 y el 15/12/2024
+* Unidad de observación: Cada adulto considerado en el experimento.
+* Muestra: 125 adultos sometidos a una colonoscopia de detección en el Centro Médico Beth Israel Deaconess. 
+* Tipo de muestreo: muestreo no aleatorio auto-seleccionada, participan en el experimento los que respondieron a la encuesta
+
+
 #### 3. Identificad el tipo de estudio, justificad vuestra respuesta (1.5 puntos)
 
+Análitico porque quiere hacer inferencia sobre el uso del móvil y la prevalencia de hemorroides,
+es observacional porque el investigador no obliga a nadia ni a usar el móvil ni a no usarlo y es
+transversal porque se les pidió a todos los que se hicieron la colonoscopia que respondieran el cuestionario. 
 
 #### 4. Indicad al menos tres posibles sesgos y/o factores de confunción que podrían afectar los resultados del estudio (2 puntos)
 
